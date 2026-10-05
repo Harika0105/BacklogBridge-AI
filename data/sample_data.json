@@ -1,0 +1,24 @@
+{
+  "label": "DEMO DATA — not a real student profile; never loaded as user data",
+  "demo_student": {
+    "semester": 3,
+    "cgpa": 6.8,
+    "subjects": [
+      {
+        "name": "DBMS",
+        "marks": 42,
+        "status": "Backlog"
+      },
+      {
+        "name": "Java",
+        "marks": 48,
+        "status": "Backlog"
+      },
+      {
+        "name": "Mathematics",
+        "marks": 67,
+        "status": "Passed"
+      }
+    ]
+  }
+}

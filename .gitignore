@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.pyc
+*.pyo
+data/student_state.json
+data/*.tmp
+data/uploads/
